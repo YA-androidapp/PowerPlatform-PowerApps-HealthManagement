@@ -1,0 +1,11 @@
+https://www.e-healthnet.mhlw.go.jp/information/food/e-02-001.html
+
+表1. 肥満度分類（日本肥満学会）[1]
+
+BMI(kg/m2)	判定	WHO基準
+< 18.5	低体重	Underweight
+18.5 ≤ BMI < 25.0	普通体重	Normal range
+25.0 ≤ BMI < 30.0	肥満（１度）	Pre-obese
+30.0 ≤ BMI < 35.0	肥満（２度）	Obese class I
+35.0 ≤ BMI < 40.0	肥満（３度）	Obese class II
+40.0 ≤ BMI	肥満（４度）	Obese class III
